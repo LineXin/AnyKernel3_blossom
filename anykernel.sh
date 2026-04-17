@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=VoidLine_Kernel_Rebirth-blossom
+kernel.string=vkr_blossom
 do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=0
