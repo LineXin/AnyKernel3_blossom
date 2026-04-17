@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
+kernel.string=VoidLine_Kernel_Rebirth-blossom
 do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=0
@@ -15,7 +15,7 @@ device.name3=angelican
 device.name4=angelicain
 device.name5=cattail
 device.name6=blossom
-supported.versions=
+supported.versions=11-16
 '; } # end properties
 
 
